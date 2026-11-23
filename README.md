@@ -19,30 +19,6 @@
 
 ## 👨‍💻 Sobre mí
 
-```javascript
-const braulio = {
-  nombre: "Braulio José Morales Larios",
-  ubicacion: "Colombia",
-  rol: "Desarrollador de Software",
-  marca: "Programming Academy",
-  estudios: [
-    "Ingeniería de Sistemas",
-    "Contaduría Pública"
-  ],
-  lenguajes: ["Python", "Java", "C#", "PHP", "JavaScript"],
-  frontend: ["React", "Vite", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "PHP"],
-  servicios: ["Supabase", "Firebase", "Vercel"],
-  intereses: [
-    "Desarrollo web",
-    "Inteligencia Artificial",
-    "Automatización",
-    "Ciberseguridad"
-  ],
-  objetivo: "Crear tecnología que resuelva problemas reales"
-};
-```
-
 Soy **Braulio José Morales Larios**, desarrollador de software y creador de **Programming Academy**, una iniciativa enfocada en el desarrollo de soluciones digitales, servicios tecnológicos y formación en programación.
 
 Cuento con experiencia en programación, desarrollo de aplicaciones web, soporte técnico, configuración de sistemas informáticos y mantenimiento de computadores. Me interesa diseñar herramientas que permitan optimizar procesos y responder a necesidades reales de empresas, instituciones y usuarios.
